@@ -8,3 +8,52 @@
 [2025-06-12 18:51:15] [keylogger.py - keylogger - Visual Studio Code] Pressed:  
 [2025-06-12 18:51:16] [keylogger.py - keylogger - Visual Studio Code] Released:  
 [2025-06-12 18:51:16] [keylogger.py - keylogger - Visual Studio Code] Released: Key.ctrl_l 
+[2025-06-12 18:57:02] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] WindowChanged:  
+[2025-06-12 18:57:02] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Pressed: d 
+[2025-06-12 18:57:03] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Released: d 
+[2025-06-12 18:57:08] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Pressed: d 
+[2025-06-12 18:57:08] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Released: d 
+[2025-06-12 18:57:09] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.cmd 
+[2025-06-12 18:57:09] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Released: Key.cmd 
+[2025-06-12 18:57:11] [Search] [SearchHost.exe] WindowChanged:  
+[2025-06-12 18:57:11] [Search] [SearchHost.exe] Pressed: c 
+[2025-06-12 18:57:11] [Search] [SearchHost.exe] Released: c 
+[2025-06-12 18:57:12] [Search] [SearchHost.exe] Pressed: h 
+[2025-06-12 18:57:12] [Search] [SearchHost.exe] Released: h 
+[2025-06-12 18:57:12] [Search] [SearchHost.exe] Pressed: Key.enter 
+[2025-06-12 18:57:12] [Unknown Window] [explorer.exe] Released: Key.enter 
+[2025-06-12 18:57:13] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] WindowChanged:  
+[2025-06-12 18:57:13] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.alt_l 
+[2025-06-12 18:57:13] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.tab 
+[2025-06-12 18:57:13] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Alt+Tab: Alt+Tab 
+[2025-06-12 18:57:13] [Task Switching] [explorer.exe] Released: Key.alt_l 
+[2025-06-12 18:57:13] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Released: Key.tab 
+[2025-06-12 18:57:24] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] WindowChanged:  
+[2025-06-12 18:57:24] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.alt_l 
+[2025-06-12 18:57:24] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.tab 
+[2025-06-12 18:57:24] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Alt+Tab: Alt+Tab 
+[2025-06-12 18:57:25] [Task Switching] [explorer.exe] Released: Key.alt_l 
+[2025-06-12 18:57:25] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Released: Key.tab 
+[2025-06-12 18:57:25] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] WindowChanged:  
+[2025-06-12 18:57:25] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.alt_l 
+[2025-06-12 18:57:25] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.tab 
+[2025-06-12 18:57:25] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Alt+Tab: Alt+Tab 
+[2025-06-12 18:57:25] [Task Switching] [explorer.exe] Released: Key.alt_l 
+[2025-06-12 18:57:25] [keylogger.py - keylogger - Visual Studio Code] [Code.exe] Released: Key.tab 
+[2025-06-12 18:57:39] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] WindowChanged:  
+[2025-06-12 18:57:39] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.alt_l 
+[2025-06-12 18:57:39] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.tab 
+[2025-06-12 18:57:39] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Alt+Tab: Alt+Tab 
+[2025-06-12 18:57:39] [Task Switching] [explorer.exe] Released: Key.alt_l 
+[2025-06-12 18:57:39] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Released: Key.tab 
+[2025-06-12 18:57:39] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] WindowChanged:  
+[2025-06-12 18:57:39] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.alt_l 
+[2025-06-12 18:57:39] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Pressed: Key.tab 
+[2025-06-12 18:57:39] [Dynamic Wallpaper Hub - Google Chrome] [chrome.exe] Alt+Tab: Alt+Tab 
+[2025-06-12 18:57:40] [Task Switching] [explorer.exe] Released: Key.alt_l 
+[2025-06-12 18:57:40] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Released: Key.tab 
+[2025-06-12 18:57:41] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] WindowChanged:  
+[2025-06-12 18:57:41] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Pressed: Key.ctrl_l 
+[2025-06-12 18:57:41] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Pressed:  
+[2025-06-12 18:57:41] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Released:  
+[2025-06-12 18:57:41] [keylog_20250612.txt - keylogger - Visual Studio Code] [Code.exe] Released: Key.ctrl_l 
