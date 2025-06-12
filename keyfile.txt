@@ -2,5 +2,116 @@ glkdsfgslfdgkgjlkdsKey j pressed
 Key g pressed
 Key l pressed
 Key s pressed
-Special key Key.space pressed
-Special key Key.tab pressed
+[2025-06-12 18:35:18] [Unknown Window] Key s pressed
+[2025-06-12 18:35:18] [Unknown Window] Key d pressed
+[2025-06-12 18:35:18] [Unknown Window] Key k pressed
+[2025-06-12 18:35:18] [Unknown Window] Key k pressed
+[2025-06-12 18:35:18] [Unknown Window] Key d pressed
+[2025-06-12 18:35:19] [Unknown Window] Key s pressed
+[2025-06-12 18:35:19] [Unknown Window] Key l pressed
+[2025-06-12 18:35:19] [Unknown Window] Key f pressed
+[2025-06-12 18:35:19] [Unknown Window] Key s pressed
+[2025-06-12 18:35:19] [Unknown Window] Key a pressed
+[2025-06-12 18:35:19] [Unknown Window] Key ; pressed
+[2025-06-12 18:40:50] [Unknown Window] Key h pressed
+[2025-06-12 18:40:51] [Unknown Window] Key k pressed
+[2025-06-12 18:40:54] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:55] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:55] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:56] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:56] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:56] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:56] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:57] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:57] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:57] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:57] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:57] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:58] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:58] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:58] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:59] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:59] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:40:59] [Unknown Window] Special key Key.alt_l pressed
+[2025-06-12 18:45:32] [keylogger.py - keylogger - Visual Studio Code] Key j pressed
+[2025-06-12 18:45:40] [keylogger.py - keylogger - Visual Studio Code] Special key Key.cmd pressed
+[2025-06-12 18:45:41] [Search] Key c pressed
+[2025-06-12 18:45:41] [Search] Key h pressed
+[2025-06-12 18:45:42] [Search] Key e pressed
+[2025-06-12 18:45:42] [Search] Key m pressed
+[2025-06-12 18:45:42] [Search] Special key Key.enter pressed
+[2025-06-12 18:45:43] [Untitled - Personal - Microsoft​ Edge] Special key Key.alt_l pressed
+[2025-06-12 18:45:43] [Untitled - Personal - Microsoft​ Edge] Special key Key.tab pressed
+[2025-06-12 18:45:45] [keylogger.py - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:45:45] [keylogger.py - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:45:49] [keylogger.py - keylogger - Visual Studio Code] Special key Key.cmd pressed
+[2025-06-12 18:45:50] [Search] Key c pressed
+[2025-06-12 18:45:50] [Search] Key h pressed
+[2025-06-12 18:45:51] [Search] Key r pressed
+[2025-06-12 18:45:51] [Search] Key o pressed
+[2025-06-12 18:45:51] [Search] Key m pressed
+[2025-06-12 18:45:51] [Search] Key e pressed
+[2025-06-12 18:45:52] [Search] Special key Key.enter pressed
+[2025-06-12 18:45:53] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:45:53] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.tab pressed
+[2025-06-12 18:45:55] [keylogger.py - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:45:55] [keylogger.py - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:45:56] [Dynamic Wallpaper Hub - Google Chrome] Key g pressed
+[2025-06-12 18:45:56] [Dynamic Wallpaper Hub - Google Chrome] Key i pressed
+[2025-06-12 18:45:57] [Dynamic Wallpaper Hub - Google Chrome] Key t pressed
+[2025-06-12 18:45:57] [Dynamic Wallpaper Hub - Google Chrome] Key h pressed
+[2025-06-12 18:45:57] [Dynamic Wallpaper Hub - Google Chrome] Key i pressed
+[2025-06-12 18:45:57] [Dynamic Wallpaper Hub - Google Chrome] Key u pressed
+[2025-06-12 18:45:58] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:45:58] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:45:59] [Dynamic Wallpaper Hub - Google Chrome] Key i pressed
+[2025-06-12 18:45:59] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:00] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:00] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:00] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:00] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:01] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.ctrl_l pressed
+[2025-06-12 18:46:01] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:46:01] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.tab pressed
+[2025-06-12 18:46:02] [keylogger.py - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:46:02] [keylogger.py - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:46:03] [Dynamic Wallpaper Hub - Google Chrome] Key g pressed
+[2025-06-12 18:46:03] [Dynamic Wallpaper Hub - Google Chrome] Key i pressed
+[2025-06-12 18:46:03] [Dynamic Wallpaper Hub - Google Chrome] Key t pressed
+[2025-06-12 18:46:05] [Dynamic Wallpaper Hub - Google Chrome] Special key Key.enter pressed
+[2025-06-12 18:46:06] [GitHub · Build and ship software on a single, collaborative platform · GitHub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:46:06] [GitHub · Build and ship software on a single, collaborative platform · GitHub - Google Chrome] Special key Key.tab pressed
+[2025-06-12 18:46:16] [keylogger.py - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:46:16] [keylogger.py - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:46:18] [GitHub · Build and ship software on a single, collaborative platform · GitHub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:46:18] [GitHub · Build and ship software on a single, collaborative platform · GitHub - Google Chrome] Special key Key.tab pressed
+[2025-06-12 18:46:23] [keylogger.py - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:46:23] [keylogger.py - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:46:29] [Sign in to GitHub · GitHub - Google Chrome] Key h pressed
+[2025-06-12 18:46:29] [Sign in to GitHub · GitHub - Google Chrome] Key w pressed
+[2025-06-12 18:46:29] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.backspace pressed
+[2025-06-12 18:46:30] [Sign in to GitHub · GitHub - Google Chrome] Key e pressed
+[2025-06-12 18:46:30] [Sign in to GitHub · GitHub - Google Chrome] Key l pressed
+[2025-06-12 18:46:30] [Sign in to GitHub · GitHub - Google Chrome] Key l pressed
+[2025-06-12 18:46:31] [Sign in to GitHub · GitHub - Google Chrome] Key o pressed
+[2025-06-12 18:46:31] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.space pressed
+[2025-06-12 18:46:31] [Sign in to GitHub · GitHub - Google Chrome] Key w pressed
+[2025-06-12 18:46:32] [Sign in to GitHub · GitHub - Google Chrome] Key o pressed
+[2025-06-12 18:46:32] [Sign in to GitHub · GitHub - Google Chrome] Key r pressed
+[2025-06-12 18:46:32] [Sign in to GitHub · GitHub - Google Chrome] Key l pressed
+[2025-06-12 18:46:32] [Sign in to GitHub · GitHub - Google Chrome] Key d pressed
+[2025-06-12 18:46:38] [Sign in to GitHub · GitHub - Google Chrome] Key w pressed
+[2025-06-12 18:46:38] [Sign in to GitHub · GitHub - Google Chrome] Key h pressed
+[2025-06-12 18:46:39] [Sign in to GitHub · GitHub - Google Chrome] Key t pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key j pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key k pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key l pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key s pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key d pressed
+[2025-06-12 18:46:40] [Sign in to GitHub · GitHub - Google Chrome] Key f pressed
+[2025-06-12 18:46:41] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:46:41] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.tab pressed
+[2025-06-12 18:47:19] [keyfile.txt - keylogger - Visual Studio Code] Special key Key.alt_l pressed
+[2025-06-12 18:47:20] [keyfile.txt - keylogger - Visual Studio Code] Special key Key.tab pressed
+[2025-06-12 18:47:20] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.alt_l pressed
+[2025-06-12 18:47:20] [Sign in to GitHub · GitHub - Google Chrome] Special key Key.tab pressed
