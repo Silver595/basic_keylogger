@@ -1,0 +1,10 @@
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Pressed: g 
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Pressed: e 
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Released: g 
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Pressed: r 
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Released: e 
+[2025-06-12 18:51:11] [keylogger.py - keylogger - Visual Studio Code] Released: r 
+[2025-06-12 18:51:15] [keylogger.py - keylogger - Visual Studio Code] Pressed: Key.ctrl_l 
+[2025-06-12 18:51:15] [keylogger.py - keylogger - Visual Studio Code] Pressed:  
+[2025-06-12 18:51:16] [keylogger.py - keylogger - Visual Studio Code] Released:  
+[2025-06-12 18:51:16] [keylogger.py - keylogger - Visual Studio Code] Released: Key.ctrl_l 
