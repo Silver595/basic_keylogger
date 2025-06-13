@@ -87,11 +87,16 @@ def get_active_window_title():
 def take_screenshot(filename="screenshot.png"):
     if ImageGrab:
         try:
+            if sys.platform not in ['win32', 'darwin']:
+                logging.warning("Screenshot not supported on this platform.")
+                return
             img = ImageGrab.grab()
             img.save(filename)
             logging.info(f"Screenshot saved: {filename}")
         except Exception as e:
             logging.warning(f"Screenshot failed: {e}")
+    else:
+        logging.warning("PIL.ImageGrab is not available. Install Pillow for screenshot support.")
 
 def add_to_startup():
     if sys.platform == 'win32':
