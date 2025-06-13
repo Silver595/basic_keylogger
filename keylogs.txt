@@ -1,0 +1,85 @@
+2025-06-13 11:01:21 - Key Pressed: f
+2025-06-13 11:01:21 - Key Pressed: d
+2025-06-13 11:01:23 - Key Pressed: f
+2025-06-13 11:01:26 - Key Pressed: f
+2025-06-13 11:01:29 - Key Pressed: k
+2025-06-13 11:01:30 - Key Pressed: f
+2025-06-13 11:01:30 - Key Pressed: k
+2025-06-13 11:01:31 - Key Pressed: f
+2025-06-13 11:01:31 - Key Pressed: k
+2025-06-13 11:01:32 - Key Pressed: k
+2025-06-13 11:01:32 - Key Pressed: f
+2025-06-13 11:01:32 - Key Pressed: k
+2025-06-13 11:01:32 - Key Pressed: f
+2025-06-13 11:01:33 - Key Pressed: k
+2025-06-13 11:01:44 - Key Pressed: a
+2025-06-13 11:01:44 - Key Pressed: d
+2025-06-13 11:01:44 - Key Pressed: d
+2025-06-13 11:01:45 - Key Pressed: space
+2025-06-13 11:01:47 - Key Pressed: a
+2025-06-13 11:01:47 - Key Pressed: d
+2025-06-13 11:01:47 - Key Pressed: v
+2025-06-13 11:01:47 - Key Pressed: a
+2025-06-13 11:01:48 - Key Pressed: n
+2025-06-13 11:01:48 - Key Pressed: c
+2025-06-13 11:01:48 - Key Pressed: e
+2025-06-13 11:01:48 - Key Pressed: space
+2025-06-13 11:01:49 - Key Pressed: e
+2025-06-13 11:01:50 - Key Pressed: x
+2025-06-13 11:01:50 - Key Pressed: t
+2025-06-13 11:01:50 - Key Pressed: r
+2025-06-13 11:01:50 - Key Pressed: a
+2025-06-13 11:01:51 - Key Pressed: space
+2025-06-13 11:01:52 - Key Pressed: f
+2025-06-13 11:01:53 - Key Pressed: e
+2025-06-13 11:01:53 - Key Pressed: a
+2025-06-13 11:01:53 - Key Pressed: t
+2025-06-13 11:01:54 - Key Pressed: u
+2025-06-13 11:01:54 - Key Pressed: r
+2025-06-13 11:01:54 - Key Pressed: e
+2025-06-13 11:01:54 - Key Pressed: s
+2025-06-13 11:01:54 - Key Pressed: space
+2025-06-13 11:01:55 - Key Pressed: enter
+2025-06-13 11:02:22 - Key Pressed: f
+2025-06-13 11:02:22 - Key Pressed: d
+2025-06-13 11:02:24 - Key Pressed: esc
+2025-06-13 11:02:45 - [[root] pwsh in <keylogger>] - Key Pressed: j
+2025-06-13 11:02:57 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:00 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:03 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: h
+2025-06-13 11:03:03 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: w
+2025-06-13 11:03:04 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:05 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:05 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:05 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: backspace
+2025-06-13 11:03:06 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: h
+2025-06-13 11:03:06 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: e
+2025-06-13 11:03:07 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: l
+2025-06-13 11:03:07 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: l
+2025-06-13 11:03:07 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: o
+2025-06-13 11:03:07 - [Sign in to GitHub · GitHub - Google Chrome] - Key Pressed: space
+2025-06-13 11:03:30 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: m
+2025-06-13 11:03:30 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: o
+2025-06-13 11:03:31 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: r
+2025-06-13 11:03:31 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: e
+2025-06-13 11:03:31 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: space
+2025-06-13 11:03:32 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: a
+2025-06-13 11:03:33 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: d
+2025-06-13 11:03:33 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: d
+2025-06-13 11:03:34 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: v
+2025-06-13 11:03:34 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: a
+2025-06-13 11:03:34 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: n
+2025-06-13 11:03:34 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: c
+2025-06-13 11:03:34 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: e
+2025-06-13 11:03:35 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: enter
+2025-06-13 11:03:45 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: t
+2025-06-13 11:03:45 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: h
+2025-06-13 11:03:45 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: a
+2025-06-13 11:03:46 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: n
+2025-06-13 11:03:46 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: k
+2025-06-13 11:03:46 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: space
+2025-06-13 11:03:47 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: enter
+2025-06-13 11:04:02 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: alt
+2025-06-13 11:04:02 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: tab
+2025-06-13 11:04:03 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: alt
+2025-06-13 11:04:04 - [keylogger_V2.py - keylogger - Visual Studio Code] - Key Pressed: tab
